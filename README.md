@@ -11,7 +11,7 @@ compatível com **roubo** (art. 157) ou **furto** (art. 155).
 
 ## 🔗 Aplicação web
 
-**https://pedrowhite.github.io/gs-mlp-roubo-furto-sp/**
+**https://github.com/Pedrowhite/gs-mlp-roubo-furto-sp**
 
 A página roda a MLP treinada direto no navegador (sem servidor). Os pesos exportados do Keras ficam embutidos no HTML.
 

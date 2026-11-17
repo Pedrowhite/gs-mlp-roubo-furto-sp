@@ -13,6 +13,8 @@ md(r"""
 
 **Disciplina:** Aprendizado Profundo com Redes Neurais Convolucionais
 
+**Repositório:** https://github.com/Pedrowhite/gs-mlp-roubo-furto-sp
+
 **Turma:** 2CCPA
 
 **Integrantes:**

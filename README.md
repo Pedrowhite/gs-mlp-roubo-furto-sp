@@ -2,6 +2,8 @@
 
 Global Solution · Aprendizado Profundo com Redes Neurais Convolucionais
 
+**Repositório:** https://github.com/Pedrowhite/gs-mlp-roubo-furto-sp
+
 Uma rede neural **MLP** recebe as características de uma ocorrência de **celular subtraído na cidade de São Paulo**
 (período do dia, dia da semana, tipo de local, região, bairro e marca do aparelho) e estima se o registro é mais
 compatível com **roubo** (art. 157) ou **furto** (art. 155).

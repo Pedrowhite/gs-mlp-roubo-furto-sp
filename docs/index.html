@@ -62,7 +62,7 @@
     <table id="tabMet"></table>
   </section>
 </div>
-<footer>Global Solution · Turma 2CCPA · Pedro César de Camargo Branco (RM567971), Renan Rodrigues de Matos Almeida (RM567952), Thiago Garcia Batista Santos (RM568107)<br>Fonte: <a href="https://www.ssp.sp.gov.br/estatistica/consultas" target="_blank" rel="noopener">SSP-SP – Portal de Estatísticas</a></footer>
+<footer>Global Solution · Turma 2CCPA · Pedro César de Camargo Branco (RM567971), Renan Rodrigues de Matos Almeida (RM567952), Thiago Garcia Batista Santos (RM568107)<br>Repositório: <a href="https://github.com/Pedrowhite/gs-mlp-roubo-furto-sp" target="_blank" rel="noopener">github.com/Pedrowhite/gs-mlp-roubo-furto-sp</a> · Fonte: <a href="https://www.ssp.sp.gov.br/estatistica/consultas" target="_blank" rel="noopener">SSP-SP – Portal de Estatísticas</a></footer>
 </main>
 
 <script>

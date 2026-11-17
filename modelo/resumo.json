@@ -1,0 +1,96 @@
+{
+  "escolhido": "M1_base_16",
+  "teste": {
+    "acuracia": 0.6736666666666666,
+    "precision": 0.5495836487509462,
+    "recall": 0.654054054054054,
+    "f1": 0.5972850678733032
+  },
+  "validacao": [
+    {
+      "modelo": "M1_base_16",
+      "params": 1297,
+      "epocas": 28,
+      "f1_treino": 0.6368,
+      "acuracia_val": 0.7053,
+      "precision_val": 0.5852,
+      "recall_val": 0.6991,
+      "f1_val": 0.6371,
+      "loss_val_min": 0.568,
+      "gap_f1": -0.0003
+    },
+    {
+      "modelo": "M2_64_32_dropout",
+      "params": 7233,
+      "epocas": 16,
+      "f1_treino": 0.6413,
+      "acuracia_val": 0.697,
+      "precision_val": 0.5736,
+      "recall_val": 0.7054,
+      "f1_val": 0.6327,
+      "loss_val_min": 0.5687,
+      "gap_f1": 0.0085
+    },
+    {
+      "modelo": "M3_128_64_32_reg",
+      "params": 20609,
+      "epocas": 23,
+      "f1_treino": 0.6492,
+      "acuracia_val": 0.7057,
+      "precision_val": 0.5861,
+      "recall_val": 0.6964,
+      "f1_val": 0.6365,
+      "loss_val_min": 0.5872,
+      "gap_f1": 0.0127
+    },
+    {
+      "modelo": "M4_256_128_64_sem_reg",
+      "params": 61697,
+      "epocas": 60,
+      "f1_treino": 0.752,
+      "acuracia_val": 0.6597,
+      "precision_val": 0.5363,
+      "recall_val": 0.5919,
+      "f1_val": 0.5627,
+      "loss_val_min": 0.5596,
+      "gap_f1": 0.1893
+    },
+    {
+      "modelo": "M5_64_32_tanh",
+      "params": 7233,
+      "epocas": 18,
+      "f1_treino": 0.6232,
+      "acuracia_val": 0.6867,
+      "precision_val": 0.5599,
+      "recall_val": 0.7153,
+      "f1_val": 0.6282,
+      "loss_val_min": 0.5749,
+      "gap_f1": -0.0049
+    }
+  ],
+  "n_capital_itens": 183812,
+  "n_boletins": 161581,
+  "n_validos": 161071,
+  "n_amostra": 20000,
+  "prop_roubo": 0.37005,
+  "split": [
+    14000,
+    3000,
+    3000
+  ],
+  "n_entradas": 79,
+  "cm": [
+    [
+      1295,
+      595
+    ],
+    [
+      384,
+      726
+    ]
+  ],
+  "class_weight": {
+    "0": 0.7937407869372944,
+    "1": 1.3510905230650454
+  }
+}
